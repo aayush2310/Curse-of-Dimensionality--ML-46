@@ -1,0 +1,4 @@
+As the number of features increase,there is a number of features after which the accuracy does not increase(may decrease),if we inc. the features then it is curse of 
+dimensionality.
+computationally complex 
+higher dimension-sparsity
